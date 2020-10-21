@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jmock:jmock:2.11.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jmock/jmock/2.11.0/5cf2e9347939bb7d2cdbbc1a1c0935f555d3beb0/jmock-2.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jmock/jmock/2.11.0/eda03a1196afc417e1588f4cb67f49e92956d5e6/jmock-2.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

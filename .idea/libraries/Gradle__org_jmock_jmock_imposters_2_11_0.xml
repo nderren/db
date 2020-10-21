@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jmock:jmock-imposters:2.11.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jmock/jmock-imposters/2.11.0/2ea8d460be34c01b0548d15649c5654e0b73fa2c/jmock-imposters-2.11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jmock/jmock-imposters/2.11.0/a47251f7643a12a8e52226dfcc0843aa888cf17e/jmock-imposters-2.11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
